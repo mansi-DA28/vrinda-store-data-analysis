@@ -22,19 +22,15 @@ interactive Excel dashboard.
 
 The dataset contains 31,047 transaction records with information on:
 
-- Order ID
-- Customer ID
-- Gender
-- Age
-- Age Group
-- Order Date
+- Order ID, Customer ID
+- Gender, Age, Age Group
+- Order Date, Month
 - Order Status
 - Sales Channel
-- Product Category
-- Quantity
+- Product Category, SKU, Size, Quantity
 - Sales Amount
-- State
-- Customer Type
+- Shipping city, state, postal code, country
+- B2B flag
 
 ## Dashboard
 
@@ -45,7 +41,7 @@ The dataset contains 31,047 transaction records with information on:
 - Women customers contributed approximately 64% of total sales.
 - Maharashtra was the top-performing state with approximately ₹2.99M in sales.
 - Amazon was the leading order channel, contributing approximately 35% of orders.
-- The overall delivery rate was approximately 91.9%.
+- The overall delivery rate was approximately 92%.
 - Monthly sales peaked in March at approximately ₹1.93M.
 - Amazon, Myntra and Flipkart together contributed nearly 80% of orders.
 
@@ -57,7 +53,7 @@ The dataset contains 31,047 transaction records with information on:
 - Top 5 States by Sales
 - Age & Gender Analysis
 - Channel-wise Order Analysis
-- Interactive Slicers
+- Interactive Slicers (Month, Category, Channel)
 
 ## Business Recommendations
 
