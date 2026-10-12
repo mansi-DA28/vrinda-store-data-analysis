@@ -34,7 +34,7 @@ The dataset contains 31,047 transaction records with information on:
 
 ## Dashboard
 
-Vrinda Store Dashboard
+   ![Vrinda Store Dashboard](Dashboard.png)
 
 ## Key Insights
 
